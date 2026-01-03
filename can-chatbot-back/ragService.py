@@ -16,10 +16,10 @@ class RAGChatbot:
         os.environ["GOOGLE_API_KEY"] = self.api_key
         
         # Charger les embeddings et le FAISS index
-        print("🔄 Chargement du modèle d'embeddings...")
+        print("Chargement du modèle d'embeddings...")
         self.embeddings_model = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
         
-        print("🔄 Chargement de la base vectorielle FAISS...")
+        print(" Chargement de la base vectorielle FAISS...")
         self.vector_db = FAISS.load_local(
             "faiss_index_can", 
             self.embeddings_model, 
@@ -30,7 +30,7 @@ class RAGChatbot:
         self.retriever = self.vector_db.as_retriever(search_kwargs={"k": 10})
         
         # Créer le modèle Gemini
-        print("🔄 Initialisation du modèle Gemini...")
+        print(" Initialisation du modèle Gemini...")
         self.llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite", temperature=0.1)
         
         # Définir le prompt
@@ -56,7 +56,7 @@ Réponse:"""
             | StrOutputParser()
         )
         
-        print("✅ Chatbot RAG initialisé avec succès !")
+        print(" Chatbot RAG initialisé avec succès !")
     
     def _format_docs(self, docs):
         """Formater les documents récupérés"""
@@ -68,7 +68,7 @@ Réponse:"""
             response = self.rag_chain.invoke(question)
             return response
         except Exception as e:
-            print(f"❌ Erreur lors de la génération de la réponse: {e}")
+            print(f" Erreur lors de la génération de la réponse: {e}")
             return f"Désolé, une erreur est survenue: {str(e)}"
 
 # Instance globale (chargée une seule fois au démarrage)
