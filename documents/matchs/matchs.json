@@ -1,0 +1,750 @@
+{
+  "matchs": [
+    {
+      "date": "21 December 2025(2025-12-21)",
+      "heure": "20:00",
+      "equipe_domicile": "Morocco",
+      "score": "2–0",
+      "equipe_exterieur": "Comoros",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Brahim55'",
+          "El Kaabi74'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "22 December 2025(2025-12-22)",
+      "heure": "15:00",
+      "equipe_domicile": "Mali",
+      "score": "1–1",
+      "equipe_exterieur": "Zambia",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [
+          "Sinayoko61'"
+        ],
+        "buteurs_ext": [
+          "Daka90+2'"
+        ]
+      }
+    },
+    {
+      "date": "26 December 2025(2025-12-26)",
+      "heure": "18:30",
+      "equipe_domicile": "Zambia",
+      "score": "0–0",
+      "equipe_exterieur": "Comoros",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "26 December 2025(2025-12-26)",
+      "heure": "21:00",
+      "equipe_domicile": "Morocco",
+      "score": "1–1",
+      "equipe_exterieur": "Mali",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Brahim45+5' (pen.)"
+        ],
+        "buteurs_ext": [
+          "Sinayoko64' (pen.)"
+        ]
+      }
+    },
+    {
+      "date": "29 December 2025(2025-12-29)",
+      "heure": "20:00",
+      "equipe_domicile": "Zambia",
+      "score": "0–3",
+      "equipe_exterieur": "Morocco",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": [
+          "El Kaabi9',50'",
+          "Brahim27'"
+        ]
+      }
+    },
+    {
+      "date": "29 December 2025(2025-12-29)",
+      "heure": "20:00",
+      "equipe_domicile": "Comoros",
+      "score": "0–0",
+      "equipe_exterieur": "Mali",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "22 December 2025(2025-12-22)",
+      "heure": "18:00",
+      "equipe_domicile": "South Africa",
+      "score": "2–1",
+      "equipe_exterieur": "Angola",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [
+          "Appollis21'",
+          "Foster79'"
+        ],
+        "buteurs_ext": [
+          "Show35'"
+        ]
+      }
+    },
+    {
+      "date": "22 December 2025(2025-12-22)",
+      "heure": "21:00",
+      "equipe_domicile": "Egypt",
+      "score": "2–1",
+      "equipe_exterieur": "Zimbabwe",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [
+          "Marmoush64'",
+          "Salah90+1'"
+        ],
+        "buteurs_ext": [
+          "Dube20'"
+        ]
+      }
+    },
+    {
+      "date": "26 December 2025(2025-12-26)",
+      "heure": "13:30",
+      "equipe_domicile": "Angola",
+      "score": "1–1",
+      "equipe_exterieur": "Zimbabwe",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "26 December 2025(2025-12-26)",
+      "heure": "16:00",
+      "equipe_domicile": "Egypt",
+      "score": "1–0",
+      "equipe_exterieur": "South Africa",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [
+          "Salah45' (pen.)"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "29 December 2025(2025-12-29)",
+      "heure": "17:00",
+      "equipe_domicile": "Angola",
+      "score": "0–0",
+      "equipe_exterieur": "Egypt",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "29 December 2025(2025-12-29)",
+      "heure": "17:00",
+      "equipe_domicile": "Zimbabwe",
+      "score": "2–3",
+      "equipe_exterieur": "South Africa",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [
+          "Maswanhise19'",
+          "Modiba73' (o.g.)"
+        ],
+        "buteurs_ext": [
+          "Moremi7'",
+          "Foster50'",
+          "Appollis82' (pen.)"
+        ]
+      }
+    },
+    {
+      "date": "23 December 2025(2025-12-23)",
+      "heure": "18:30",
+      "equipe_domicile": "Nigeria",
+      "score": "2–1",
+      "equipe_exterieur": "Tanzania",
+      "stade_ville": "Fez Stadium,Fez",
+      "details": {
+        "buteurs_dom": [
+          "Ajayi36'",
+          "Lookman52'"
+        ],
+        "buteurs_ext": [
+          "M'Mombwa50'"
+        ]
+      }
+    },
+    {
+      "date": "23 December 2025(2025-12-23)",
+      "heure": "21:00",
+      "equipe_domicile": "Tunisia",
+      "score": "3–1",
+      "equipe_exterieur": "Uganda",
+      "stade_ville": "Rabat Olympic Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Skhiri10'",
+          "Achouri40',64'"
+        ],
+        "buteurs_ext": [
+          "Omedi90+2'"
+        ]
+      }
+    },
+    {
+      "date": "27 December 2025(2025-12-27)",
+      "heure": "18:30",
+      "equipe_domicile": "Uganda",
+      "score": "1–1",
+      "equipe_exterieur": "Tanzania",
+      "stade_ville": "Al Medina Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Ikpeazu80'"
+        ],
+        "buteurs_ext": [
+          "Msuva59' (pen.)"
+        ]
+      }
+    },
+    {
+      "date": "27 December 2025(2025-12-27)",
+      "heure": "21:00",
+      "equipe_domicile": "Nigeria",
+      "score": "3–2",
+      "equipe_exterieur": "Tunisia",
+      "stade_ville": "Fez Stadium,Fez",
+      "details": {
+        "buteurs_dom": [
+          "Osimhen44'",
+          "Ndidi50'",
+          "Lookman67'"
+        ],
+        "buteurs_ext": [
+          "Talbi74'",
+          "Abdi87' (pen.)"
+        ]
+      }
+    },
+    {
+      "date": "30 December 2025(2025-12-30)",
+      "heure": "17:00",
+      "equipe_domicile": "Uganda",
+      "score": "1–3",
+      "equipe_exterieur": "Nigeria",
+      "stade_ville": "Fez Stadium,Fez",
+      "details": {
+        "buteurs_dom": [
+          "Mato75'"
+        ],
+        "buteurs_ext": [
+          "Onuachu28'",
+          "Onyedika62',67'"
+        ]
+      }
+    },
+    {
+      "date": "30 December 2025(2025-12-30)",
+      "heure": "17:00",
+      "equipe_domicile": "Tanzania",
+      "score": "1–1",
+      "equipe_exterieur": "Tunisia",
+      "stade_ville": "Rabat Olympic Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Salum48'"
+        ],
+        "buteurs_ext": [
+          "Gharbi43' (pen.)"
+        ]
+      }
+    },
+    {
+      "date": "23 December 2025(2025-12-23)",
+      "heure": "13:30",
+      "equipe_domicile": "DR Congo",
+      "score": "1–0",
+      "equipe_exterieur": "Benin",
+      "stade_ville": "Al Medina Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Bongonda16'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "23 December 2025(2025-12-23)",
+      "heure": "16:00",
+      "equipe_domicile": "Senegal",
+      "score": "3–0",
+      "equipe_exterieur": "Botswana",
+      "stade_ville": "Tangier Grand Stadium,Tangier",
+      "details": {
+        "buteurs_dom": [
+          "Jackson40',58'",
+          "Cherif90'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "27 December 2025(2025-12-27)",
+      "heure": "13:30",
+      "equipe_domicile": "Benin",
+      "score": "1–0",
+      "equipe_exterieur": "Botswana",
+      "stade_ville": "Rabat Olympic Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Roche28'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "27 December 2025(2025-12-27)",
+      "heure": "16:00",
+      "equipe_domicile": "Senegal",
+      "score": "1–1",
+      "equipe_exterieur": "DR Congo",
+      "stade_ville": "Tangier Grand Stadium,Tangier",
+      "details": {
+        "buteurs_dom": [
+          "Mané69'"
+        ],
+        "buteurs_ext": [
+          "Bakambu61'"
+        ]
+      }
+    },
+    {
+      "date": "30 December 2025(2025-12-30)",
+      "heure": "20:00",
+      "equipe_domicile": "Benin",
+      "score": "0–3",
+      "equipe_exterieur": "Senegal",
+      "stade_ville": "Tangier Grand Stadium,Tangier",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": [
+          "Seck38'",
+          "H. Diallo62'",
+          "C. Ndiaye90+7' (pen.)"
+        ]
+      }
+    },
+    {
+      "date": "30 December 2025(2025-12-30)",
+      "heure": "20:00",
+      "equipe_domicile": "Botswana",
+      "score": "0–3",
+      "equipe_exterieur": "DR Congo",
+      "stade_ville": "Al Medina Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": [
+          "Mbuku31'",
+          "Kakuta41' (pen.),60'"
+        ]
+      }
+    },
+    {
+      "date": "24 December 2025(2025-12-24)",
+      "heure": "13:30",
+      "equipe_domicile": "Burkina Faso",
+      "score": "2–1",
+      "equipe_exterieur": "Equatorial Guinea",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [
+          "Minoungou90+5'",
+          "Tapsoba90+8'"
+        ],
+        "buteurs_ext": [
+          "Anieboh85'"
+        ]
+      }
+    },
+    {
+      "date": "24 December 2025(2025-12-24)",
+      "heure": "16:00",
+      "equipe_domicile": "Algeria",
+      "score": "3–0",
+      "equipe_exterieur": "Sudan",
+      "stade_ville": "Moulay Hassan Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Mahrez2',61'",
+          "Maza85'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "28 December 2025(2025-12-28)",
+      "heure": "16:00",
+      "equipe_domicile": "Equatorial Guinea",
+      "score": "0–1",
+      "equipe_exterieur": "Sudan",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": [
+          "Coco74' (o.g.)"
+        ]
+      }
+    },
+    {
+      "date": "28 December 2025(2025-12-28)",
+      "heure": "18:30",
+      "equipe_domicile": "Algeria",
+      "score": "1–0",
+      "equipe_exterieur": "Burkina Faso",
+      "stade_ville": "Moulay Hassan Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Mahrez23' (pen.)"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "31 December 2025(2025-12-31)",
+      "heure": "17:00",
+      "equipe_domicile": "Equatorial Guinea",
+      "score": "1–3",
+      "equipe_exterieur": "Algeria",
+      "stade_ville": "Moulay Hassan Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [
+          "Nsue50'"
+        ],
+        "buteurs_ext": [
+          "Belaïd19'",
+          "Chaïbi25'",
+          "Maza32'"
+        ]
+      }
+    },
+    {
+      "date": "31 December 2025(2025-12-31)",
+      "heure": "17:00",
+      "equipe_domicile": "Sudan",
+      "score": "0–2",
+      "equipe_exterieur": "Burkina Faso",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": [
+          "L. Traoré16'",
+          "Kouassi85'"
+        ]
+      }
+    },
+    {
+      "date": "24 December 2025(2025-12-24)",
+      "heure": "18:30",
+      "equipe_domicile": "Ivory Coast",
+      "score": "1–0",
+      "equipe_exterieur": "Mozambique",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [
+          "Amad49'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "24 December 2025(2025-12-24)",
+      "heure": "21:00",
+      "equipe_domicile": "Cameroon",
+      "score": "1–0",
+      "equipe_exterieur": "Gabon",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [
+          "Etta Eyong6'"
+        ],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "28 December 2025(2025-12-28)",
+      "heure": "13:30",
+      "equipe_domicile": "Gabon",
+      "score": "2–3",
+      "equipe_exterieur": "Mozambique",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "28 December 2025(2025-12-28)",
+      "heure": "21:00",
+      "equipe_domicile": "Ivory Coast",
+      "score": "1–1",
+      "equipe_exterieur": "Cameroon",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [
+          "Amad51'"
+        ],
+        "buteurs_ext": [
+          "Konan56' (o.g.)"
+        ]
+      }
+    },
+    {
+      "date": "31 December 2025(2025-12-31)",
+      "heure": "20:00",
+      "equipe_domicile": "Gabon",
+      "score": "2–3",
+      "equipe_exterieur": "Ivory Coast",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [
+          "Kanga11'",
+          "Bouanga21'"
+        ],
+        "buteurs_ext": [
+          "Krasso44'",
+          "Guessand84'",
+          "Touré90+1'"
+        ]
+      }
+    },
+    {
+      "date": "31 December 2025(2025-12-31)",
+      "heure": "20:00",
+      "equipe_domicile": "Mozambique",
+      "score": "1–2",
+      "equipe_exterieur": "Cameroon",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [
+          "Catamo23'"
+        ],
+        "buteurs_ext": [
+          "Nené28' (o.g.)",
+          "Kofane55'"
+        ]
+      }
+    },
+    {
+      "date": "3 January 2026(2026-01-03)",
+      "heure": "17:00",
+      "equipe_domicile": "Senegal",
+      "score": "R1",
+      "equipe_exterieur": "Sudan",
+      "stade_ville": "Tangier Grand Stadium,Tangier",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "3 January 2026(2026-01-03)",
+      "heure": "20:00",
+      "equipe_domicile": "Mali",
+      "score": "R2",
+      "equipe_exterieur": "Tunisia",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "4 January 2026(2026-01-04)",
+      "heure": "17:00",
+      "equipe_domicile": "Morocco",
+      "score": "R3",
+      "equipe_exterieur": "Tanzania",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "4 January 2026(2026-01-04)",
+      "heure": "20:00",
+      "equipe_domicile": "South Africa",
+      "score": "R4",
+      "equipe_exterieur": "Cameroon",
+      "stade_ville": "Al Medina Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "5 January 2026(2026-01-05)",
+      "heure": "17:00",
+      "equipe_domicile": "Egypt",
+      "score": "R5",
+      "equipe_exterieur": "Benin",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "5 January 2026(2026-01-05)",
+      "heure": "20:00",
+      "equipe_domicile": "Nigeria",
+      "score": "R6",
+      "equipe_exterieur": "Mozambique",
+      "stade_ville": "Fez Stadium,Fez",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "6 January 2026(2026-01-06)",
+      "heure": "17:00",
+      "equipe_domicile": "Algeria",
+      "score": "R7",
+      "equipe_exterieur": "DR Congo",
+      "stade_ville": "Moulay Hassan Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "6 January 2026(2026-01-06)",
+      "heure": "20:00",
+      "equipe_domicile": "Ivory Coast",
+      "score": "R8",
+      "equipe_exterieur": "Burkina Faso",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "9 January 2026(2026-01-09)",
+      "heure": "17:00",
+      "equipe_domicile": "Winner R2",
+      "score": "QF1",
+      "equipe_exterieur": "Winner R1",
+      "stade_ville": "Tangier Grand Stadium,Tangier",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "9 January 2026(2026-01-09)",
+      "heure": "20:00",
+      "equipe_domicile": "Winner R4",
+      "score": "QF2",
+      "equipe_exterieur": "Winner R3",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "10 January 2026(2026-01-10)",
+      "heure": "17:00",
+      "equipe_domicile": "Winner R7",
+      "score": "QF3",
+      "equipe_exterieur": "Winner R6",
+      "stade_ville": "Marrakesh Stadium,Marrakesh",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "10 January 2026(2026-01-10)",
+      "heure": "20:00",
+      "equipe_domicile": "Winner R5",
+      "score": "QF4",
+      "equipe_exterieur": "Winner R8",
+      "stade_ville": "Adrar Stadium,Agadir",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "14 January 2026(2026-01-14)",
+      "heure": "18:00",
+      "equipe_domicile": "Winner QF1",
+      "score": "SF1",
+      "equipe_exterieur": "Winner QF4",
+      "stade_ville": "Tangier Grand Stadium,Tangier",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "14 January 2026(2026-01-14)",
+      "heure": "21:00",
+      "equipe_domicile": "Winner QF2",
+      "score": "SF2",
+      "equipe_exterieur": "Winner QF3",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "17 January 2026(2026-01-17)",
+      "heure": "17:00",
+      "equipe_domicile": "Loser SF1",
+      "score": "v",
+      "equipe_exterieur": "Loser SF2",
+      "stade_ville": "Mohammed V Stadium,Casablanca",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    },
+    {
+      "date": "18 January 2026",
+      "heure": "20:00",
+      "equipe_domicile": "Winner SF1",
+      "score": "v",
+      "equipe_exterieur": "Winner SF2",
+      "stade_ville": "Prince Moulay Abdellah Stadium,Rabat",
+      "details": {
+        "buteurs_dom": [],
+        "buteurs_ext": []
+      }
+    }
+  ]
+}
