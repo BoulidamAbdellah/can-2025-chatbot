@@ -1,0 +1,77 @@
+<div class="chat-container">
+  <!-- Header -->
+  <div class="chat-header">
+    <div class="header-content">
+      <span class="icon">⚽</span>
+      <div class="header-text">
+        <h1>Chatbot CAN 2025</h1>
+        <p>Coupe d'Afrique des Nations - Maroc 🇲🇦</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Messages Area -->
+  <div class="messages-container" #messagesContainer>
+    @for (mes of messages; track mes.id) {
+      @if (mes.sender === "bot") {
+        <div class="message-wrapper bot-wrapper">
+          <div class="message bot-message">
+            <span class="avatar bot-avatar">🤖</span>
+            <div class="message-content">
+              <p>{{ mes.message }}</p>
+              <!-- <span class="timestamp">{{ mes.timestamp | date:'HH:mm' }}</span> -->
+            </div>
+          </div>
+        </div>
+      } @else {
+        <div class="message-wrapper user-wrapper">
+          <div class="message sender-message">
+            <div class="message-content">
+              <p>{{ mes.message }}</p>
+              <!-- <span class="timestamp">{{ mes.timestamp | date:'HH:mm' }}</span> -->
+            </div>
+            <span class="avatar user-avatar">👤</span>
+          </div>
+        </div>
+      }
+    }
+
+    <!-- Loading Indicator -->
+    @if (loading) {
+      <div class="message-wrapper bot-wrapper">
+        <div class="message bot-message loading-message">
+          <span class="avatar bot-avatar">🤖</span>
+          <div class="message-content">
+            <div class="typing-indicator">
+              <span></span>
+              <span></span>
+              <span></span>
+            </div>
+            <p class="loading-text">L'expert analyse votre question...</p>
+          </div>
+        </div>
+      </div>
+    }
+  </div>
+
+  <!-- Input Area -->
+  <div class="input-area">
+    <div class="input-wrapper">
+      <input 
+        [(ngModel)]="prompt" 
+        type="text" 
+        placeholder="Posez votre question sur la CAN 2025..."
+        (keypress)="handleKeyPress($event)"
+        class="message-input"
+      />
+      <button 
+        type="button" 
+        (click)="send()" 
+        [disabled]="!prompt.trim() || loading"
+        class="send-button">
+        <span class="send-icon">➤</span>
+      </button>
+    </div>
+    <p class="input-hint">Appuyez sur Entrée pour envoyer</p>
+  </div>
+</div>
